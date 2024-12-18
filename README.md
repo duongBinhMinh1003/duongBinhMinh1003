@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Nestjs**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **WEB , BE , FE**
 
 - 📫 How to reach me **duongbinhminh10032004@gmail.com**
 
@@ -20,10 +20,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
+<a href="https://www.facebook.com/bbmmm10032004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="duongbinhminh" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="duongbinhminh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/b%C3%ACnh-minh-d%C6%B0%C6%A1ng-b81542342/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-<a href="https://www.instagram.com/just.dawn1003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@minh331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
+<a href="https://www.instagram.com/just.dawn1003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="duongbinhminh" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@minh331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="duongbinhminh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
